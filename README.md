@@ -1,10 +1,6 @@
 # Minhas-Medidas-Politica
 Politica de privacidade do aplicativo Minhas Medidas.
 
-
-
-Política de Privacidade para App de Medidas Corporais
-
 Esta Política de Privacidade descreve como as informações pessoais do usuário são coletadas, usadas e compartilhadas pelo nosso aplicativo de medidas corporais, que não sobe informações para nuvem e mantém todos os dados no dispositivo do usuário. Ao usar o aplicativo, o usuário concorda com a coleta e uso de informações de acordo com esta política.
 
 Informações que coletamos
